@@ -1,0 +1,6 @@
+//integrate yandex
+import oauth
+
+public class Integration Implements Integratable{
+
+}
