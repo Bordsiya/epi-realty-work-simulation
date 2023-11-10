@@ -4,4 +4,12 @@ public class Favorites{
 
     }
 
+    public List<Flat> getFavorites(){
+
+    }
+
+    public void setFav(int id){
+
+    }
+
 }
