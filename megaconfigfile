@@ -1,0 +1,7 @@
+Some very cool code
+import cool-scripts
+
+String configFilePath = "src/config.properties";
+FileInputStream propsInput = new FileInputStream(configFilePath);
+
+change path

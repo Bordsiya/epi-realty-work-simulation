@@ -1,0 +1,11 @@
+@Controller
+public class Contrroler{
+  public Controller(){
+    controll();
+  }
+
+  private void control(){
+    //some shitcoding
+    //some shitcoding 2
+  }
+}
