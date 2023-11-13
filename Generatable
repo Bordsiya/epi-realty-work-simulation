@@ -1,0 +1,5 @@
+public interface Generatable{
+
+  public string generateLogin();
+
+}
