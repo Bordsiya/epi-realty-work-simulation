@@ -1,0 +1,9 @@
+public class Example5
+{
+    @Cfg(splitter = "--")
+    private static int[] SOME_INT_ARRAY;
+    @Cfg(splitter = "[><]")
+    private static short[] SOME_SHORT_ARRAY;
+    @Cfg
+    private static BigInteger[] SOME_BIGINTEGER_ARRAY;
+}
