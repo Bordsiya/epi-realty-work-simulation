@@ -1,0 +1,15 @@
+public class Favorites{
+
+    public Favorites(){
+
+    }
+
+    public List<Flat> getFavorites(){
+
+    }
+
+    public void setFav(int id){
+
+    }
+
+}
