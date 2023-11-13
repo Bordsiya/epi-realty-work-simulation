@@ -1,0 +1,15 @@
+public class User{
+    private Login login;
+    private string password;
+
+    public User(){
+
+    }
+
+    public User(Login login, string password){
+        this.login = login;
+        this.password = password;
+    }
+
+
+}
