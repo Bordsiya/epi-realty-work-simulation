@@ -1,0 +1,13 @@
+public class Search{
+
+    private string criteria;
+
+
+    public Search(){
+
+
+    }
+
+
+
+}
