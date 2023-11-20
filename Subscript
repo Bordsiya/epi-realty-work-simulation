@@ -1,6 +1,10 @@
-public class Subscript{
+public class Subscript implements Subscriptable{
+
+  public class Subscript(){
 
 
+
+  |
 
 
 
