@@ -1,4 +1,4 @@
-puublic class Comparison{
+puublic class Comparison implements Comparisonable{
 
 
     public Comparison(){
