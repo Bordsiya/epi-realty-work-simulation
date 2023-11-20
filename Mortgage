@@ -1,0 +1,22 @@
+public class Mortgage{
+
+  private double money;
+  private double result;
+
+
+  public Mortgage(double money){
+
+    this.money = money;
+  }
+
+
+  public double mortgage(){
+
+    return result;
+
+  }
+
+
+
+
+}
