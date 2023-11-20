@@ -1,0 +1,20 @@
+puublic class Comparison implements Comparisonable{
+
+
+    public Comparison(){
+
+
+
+    }
+
+
+
+    public Comparison(Appartment appartment){
+
+
+
+    }
+
+
+
+}
