@@ -1,0 +1,11 @@
+public class Appartment{
+    private string name;
+
+    public Appartment(){
+
+
+    }
+
+
+
+}
