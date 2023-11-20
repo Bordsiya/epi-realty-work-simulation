@@ -9,4 +9,12 @@ puublic class Comparison implements Comparisonable{
 
 
 
+    public Comparison(Appartment appartment){
+
+
+
+    }
+
+
+
 }
