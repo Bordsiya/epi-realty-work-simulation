@@ -1,6 +1,12 @@
 public class SetSettingToPerson{
 
 
+    public SetSettingToPerson(){
+
+
+    }
+
+
 
 
 
