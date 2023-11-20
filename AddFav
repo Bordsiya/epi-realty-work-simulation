@@ -1,4 +1,4 @@
-public class AddFavorites{
+public class AddFavorites implements Addable{
 
     private Favorite[] favorites;
 
