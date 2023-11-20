@@ -1,0 +1,7 @@
+public interface Professionable{
+
+
+  public void addFilters();
+
+
+}
