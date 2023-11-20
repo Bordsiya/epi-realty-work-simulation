@@ -1,0 +1,20 @@
+public class Search{
+
+    private string criteria;
+
+
+    public Search(){
+
+
+    }
+
+
+    public Elements<Appartment> getSearchResult(){
+
+
+
+    }
+
+
+
+}

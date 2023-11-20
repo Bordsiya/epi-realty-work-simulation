@@ -1,0 +1,15 @@
+import Ad;
+
+public class FilterAds{
+
+  private Filter filter;
+
+  public FilterAds(){
+
+
+
+  }
+
+    
+
+}
