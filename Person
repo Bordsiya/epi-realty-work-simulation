@@ -1,0 +1,14 @@
+public class Person{
+
+    private string name;
+    private string phone;
+    private Country country;
+
+
+  public Person(){
+
+  }
+
+
+
+}
