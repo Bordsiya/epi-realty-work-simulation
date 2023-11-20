@@ -1,0 +1,17 @@
+public class Register implements Generatable{
+
+
+    public Register(){
+
+    }
+
+
+    public Register(User user){
+
+
+      
+    }
+
+
+
+}
