@@ -1,0 +1,18 @@
+public class News{
+
+    public News(){
+
+
+
+    ]
+
+
+    public News getNews(){
+
+      return this;
+
+    }
+
+
+
+}
