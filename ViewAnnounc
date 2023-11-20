@@ -1,4 +1,4 @@
-public class ViewAnnounc{
+public class ViewAnnounc implements Announcable{
 
 
 
