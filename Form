@@ -1,12 +1,21 @@
 public class Form{
 
     private string name;
-    private string form;
+    private string phone;
 
 
 
     public Form(){
 
+
+    }
+
+
+    public Form(string name, string phone){
+
+
+        this.name = name;
+        this. phone = phone;
 
     }
 
