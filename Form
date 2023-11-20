@@ -1,0 +1,15 @@
+public class Form{
+
+    private string name;
+    private string form;
+
+
+
+    public Form(){
+
+
+    }
+
+
+
+}
