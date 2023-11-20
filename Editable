@@ -1,0 +1,9 @@
+//62
+public interface Editable{
+
+
+  public void edit();
+
+
+
+}
