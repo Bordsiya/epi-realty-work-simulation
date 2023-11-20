@@ -9,5 +9,12 @@ public class Search{
     }
 
 
+    public Elements<Appartment> getSearchResult(){
+
+
+
+    }
+
+
 
 }
