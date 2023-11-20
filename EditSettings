@@ -1,0 +1,18 @@
+public class EditSettings{
+
+  private Setting setting;
+
+
+  public EditSettings(){
+
+
+
+
+  }
+
+
+
+
+
+
+}
