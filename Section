@@ -1,0 +1,14 @@
+public class Section{
+
+    private News news;
+
+
+    public Section(){
+
+
+
+    }
+
+
+
+}
