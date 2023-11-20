@@ -1,0 +1,16 @@
+public class Loan{
+
+
+    public Loan(){
+
+
+    }
+
+  public void setLoan(double money){
+
+
+
+  }
+
+
+}
