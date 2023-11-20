@@ -1,4 +1,4 @@
-public class AddFilter{
+public class AddFilter implements Professionable{
 
       public AddFilter(){
 
