@@ -1,0 +1,13 @@
+public class CheckNews{
+    private News news;
+
+
+
+  public CheckNews(){
+
+
+  }
+
+
+
+}
