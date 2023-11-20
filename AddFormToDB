@@ -7,5 +7,12 @@ public class AddFormToDB{
   }
 
 
+PUBLIC VOID WRITEtOdb(){
+
+
+
+}
+
+
 
 }
