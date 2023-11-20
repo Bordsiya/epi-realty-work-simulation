@@ -7,5 +7,12 @@ public class Subscript implements Subscriptable{
   |
 
 
+  public void makeSubscript(){
+
+
+
+  }
+
+
 
 }
