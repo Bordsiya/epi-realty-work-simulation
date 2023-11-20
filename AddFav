@@ -1,0 +1,14 @@
+public class AddFavorites{
+
+    private Favorite[] favorites;
+
+
+    public class AddFavorite(){
+
+
+
+    }
+
+
+
+}
