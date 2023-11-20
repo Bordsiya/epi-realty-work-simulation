@@ -1,0 +1,12 @@
+public class RecommendAppart{
+
+  private Appartment[] appartments;
+
+
+  public Appartment(){
+
+
+  }
+ 
+
+ } 
