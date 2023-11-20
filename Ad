@@ -6,5 +6,10 @@ public class Ad{
 
     }
 
+    public void addOwner(Person owner){
+        this.owner = owner;
+
+    }
+
 
 }
