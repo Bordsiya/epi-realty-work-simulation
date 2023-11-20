@@ -1,0 +1,14 @@
+public class AddFavorites implements Addable{
+
+    private Favorite[] favorites;
+
+
+    public class AddFavorite(){
+
+
+
+    }
+
+
+
+}

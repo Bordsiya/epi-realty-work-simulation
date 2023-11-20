@@ -1,0 +1,7 @@
+public interface Addable{
+
+
+public boolean add();
+
+
+}
