@@ -1,4 +1,4 @@
-public class RecommendAppart{
+public class RecommendAppart implements Recommendable{
 
   private Appartment[] appartments;
 
