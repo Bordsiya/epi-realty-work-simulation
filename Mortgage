@@ -1,3 +1,6 @@
+import Formulas.*;
+
+
 public class Mortgage{
 
   private double money;
