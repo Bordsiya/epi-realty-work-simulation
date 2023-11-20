@@ -1,0 +1,13 @@
+public class ViewAnnounc implements Announcable{
+
+
+
+    public ViewAnnounc(){
+
+
+
+    }
+
+
+
+}
