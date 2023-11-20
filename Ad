@@ -1,0 +1,15 @@
+public class Ad{
+    private string name;
+    private Person owner;
+
+    public Ad(){
+
+    }
+
+    public void addOwner(Person owner){
+        this.owner = owner;
+
+    }
+
+
+}
