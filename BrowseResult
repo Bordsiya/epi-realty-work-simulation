@@ -1,0 +1,15 @@
+import SearchMortgage;
+
+public class BrowseResult{
+
+
+    public BrowseResult(){
+
+
+
+    }
+
+
+
+
+}
