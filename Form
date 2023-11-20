@@ -1,0 +1,24 @@
+public class Form{
+
+    private string name;
+    private string phone;
+
+
+
+    public Form(){
+
+
+    }
+
+
+    public Form(string name, string phone){
+
+
+        this.name = name;
+        this. phone = phone;
+
+    }
+
+
+
+}
